@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+pandas>=2.0.0
+sqlite3
+xml
+decimal
+datetime
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
